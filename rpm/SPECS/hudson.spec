@@ -121,4 +121,5 @@ exit 0
 /usr/sbin/rc%{name}
 
 %changelog
-* Complete change log is available at http://hudson-ci.org/changelog.html
+* Fri Jan 05 2013 Winston Prakash <winston.prakash@gmail.com> - 3.0.0
+  - Complete change log is available at http://hudson-ci.org/changelog.html
